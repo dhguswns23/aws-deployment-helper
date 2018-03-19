@@ -20,4 +20,4 @@ def tprint_end(msg):
     print(colored("[FINISH] "+msg, 'magenta'))
 
 def tprint_error(error):
-    print(+colored("[ERROR] "+error, 'red'))
+    print(colored("[ERROR] "+error, 'red'))
