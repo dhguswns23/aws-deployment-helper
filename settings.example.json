@@ -1,0 +1,21 @@
+{
+	"IAM": {
+		"ACCESS_KEY": "",
+		"SECRET_KEY": ""
+	},
+	"EC2": {
+		"PROD_ID": "",
+		"DEV_ID": ""
+	},
+	"TARGET_GROUP": {
+		"ARN": [""]
+	},
+	"SECURITY_GROUP": [""],
+	"VPC": {
+		"SUBNET": ", "
+	},
+	"AUTO_SCALING_GROUP": {
+		"MIN": 1,
+		"MAX": 5
+	}
+}
